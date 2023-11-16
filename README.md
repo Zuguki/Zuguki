@@ -52,7 +52,7 @@
 
 ---
 
-## My Skill Set
+## 😇 My Skill Set
 <table><tr><td valign="top" width="33%">
 
 <div align="center">  
@@ -79,7 +79,7 @@
 
 ---
 
-## 💻 LeetCode:
+## 🧠 LeetCode:
 [![LeetCode user GoodGodOff](https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solved&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2FGoodGodOff&logo=leetcode&logoColor=yellow)](https://leetcode.com/GoodGodOff/)
 
 ---
